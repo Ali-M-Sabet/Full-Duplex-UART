@@ -1,0 +1,13 @@
+rtl/tx/uart_par_calc.v
+rtl/tx/uart_serializer.v
+rtl/tx/uart_fsm.sv
+rtl/tx/uart_tx_top.v
+rtl/rx/data_sampler.v
+rtl/rx/deserializer.v
+rtl/rx/edge_bit_counter.v
+rtl/rx/par_check.v
+rtl/rx/stp_check.v
+rtl/rx/strt_check.v
+rtl/rx/uart_rx_fsm.sv
+rtl/rx/uart_rx.v
+rtl/uart_top.v

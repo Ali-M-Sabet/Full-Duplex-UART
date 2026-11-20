@@ -1,0 +1,12 @@
+work/
+transcript
+*.wlf
+*.vcd
+*.log
+modelsim.ini
+build/
+*.vvp
+*.wdb
+xsim.dir/
+.Xil/
+*.jou
