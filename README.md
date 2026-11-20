@@ -1,4 +1,4 @@
-# UART
+# Full-Duplex UART
 
 An 8-bit full-duplex UART in Verilog and SystemVerilog, with separate
 transmit and receive clocks.
